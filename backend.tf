@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "Maheshcloudx"
+    organization = "maheshcloudx"
 
     workspaces {
       name = "awsautoscaling"
